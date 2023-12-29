@@ -1,0 +1,15 @@
+{
+  "name": "ithillel-js-aqa-group-cypress",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "description": "",
+  "scripts": {
+    "test": "cypress open",
+    "test:cli": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
