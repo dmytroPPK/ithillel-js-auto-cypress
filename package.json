@@ -4,8 +4,8 @@
   "main": "cypress.config.js",
   "description": "",
   "scripts": {
-    "test": "cypress open",
-    "test:cli": "cypress run"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "author": "",
   "license": "ISC",
